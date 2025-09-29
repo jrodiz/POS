@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             POSTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Mariela y Joseph y el perro transparente",
+                        name = "Rodiz Montoya",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
